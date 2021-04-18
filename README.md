@@ -1,13 +1,14 @@
-[View demo](https://blackwhite2018.github.io/user-list)
+## CRUD functionality
+
+### I was taked with creating an app with full CRUD functionality mainly:
+- Fetching users from a given API
+- Getting a Token
+- Ability for a new user to register
+- Storing a token in local Storage (although some say, it's a bad idea...)
+- Ability to edit a user
+- Ability to set the user as inactive, rather than deleting him
+- Ability to delete a user
+
+The App is in progress. Check back when it's fully complete.
 
 
-Меня зовут Елена, я являюсь менеджером по персоналу в компании Emphasoft. Передали Ваше резюме на вакансию ReactJS разработчика.
-Сделайте, пожалуйста, SPA с адаптивной версткой, где будет реализована авторизация пользователя с валидацией, плюс еще одно задание на Ваш выбор:
-1. Отображение списка пользователей с фильтрацией по юзернейму и сортировкой по ID
-2. Создание\редактирование пользователя с валидацией
-
-Бекенд: http://emphasoft-test-assignment.herokuapp.com/swagger/
-Username: test_super
-Password: Nf<U4f<rDbtDxAPn
- 
-Результат предоставить в качестве url, где можно протестировать работу и в виде исходных кодов в tar.gz архиве ответным письмом (вопросы сюда же)  также прикрепить резюме в формате pdf, ожидания по ЗП и сколько часов хотите работать в неделю.
